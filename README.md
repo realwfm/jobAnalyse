@@ -1,3 +1,5 @@
-# practice
-the first test in githup
-hello world
+# jobAnalyse
+尝试一下github
+这个项目是我在学习大数据期间，自己想的需求写的，代码杂乱，仅作参考。
+爬取智联招聘的信息到本地，使用flume采集到kafka，使用SparkStreaming做简单的实时分析
+公司地址、工作薪资水平、技能要求、公司规模、学历要求、经验要求等

@@ -1,0 +1,1 @@
+流式参数例子：hadoop1:2181,hadoop2:2181 first jobpull 2 javaweb file:///C:\Users\75922\Desktop\test\java.txt
